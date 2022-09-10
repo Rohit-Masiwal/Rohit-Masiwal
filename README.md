@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Rohit Masiwal
 - 👀 I’m interested in Competitive Programming
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently pursuing Masters for Graphic Era University
+- 🔭 I’m currently pursuing Masters from Graphic Era University
 - 🌱 I’m currently trying my hands on Backend
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohitmasiwal/)
 
