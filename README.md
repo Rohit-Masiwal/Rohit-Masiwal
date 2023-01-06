@@ -8,7 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohitmasiwal/)
 
 <!--
-**manish3522/manish3522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
