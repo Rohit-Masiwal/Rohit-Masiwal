@@ -1,5 +1,4 @@
 ### Hi there, I'm Rohit 👋
-<p>Software Engineer at Amazon Alexa</p>
 
 - 👋 Hi, I’m Rohit Masiwal
 - 👀 I’m interested in Competitive Programming
