@@ -4,7 +4,7 @@
 - 👀 I’m interested in Competitive Programming
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently pursuing Masters from Graphic Era University
-- 🌱 I’m currently trying my hands on Backend
+- 🌱 I’m currently trying my hands on the Backend
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohitmasiwal/)
 
 <!--
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code> 
+<code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>  
 <code><img height="20" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"></code>  
 
 <!--
