@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>   
+<code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code> 
+<code><img height="20" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"></code>  
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
